@@ -222,7 +222,7 @@ margin-bottom: 30px;
 /*секция с изображениями*/
 
 .features{
-background: url('/image/503513847_10162437373991628_1296779329166641954_n.jpg') no-repeat center center fixed;
+background: url('image/503513847_10162437373991628_1296779329166641954_n.jpg') no-repeat center center fixed;
 background-size: cover;
 padding: 80px 80px;
 }
@@ -411,8 +411,4 @@ footer >p{
     width: 55%;
     margin: 80px 20%;
 
-}
-
-.header .container-contacts{
-    padding: 1000px;
 }
